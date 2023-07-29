@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https---github.com-Vaibhav123-code-auth-signup/static/css/main.bee70628.css",
-    "main.js": "/https---github.com-Vaibhav123-code-auth-signup/static/js/main.047692cc.js",
-    "index.html": "/https---github.com-Vaibhav123-code-auth-signup/index.html",
-    "main.bee70628.css.map": "/https---github.com-Vaibhav123-code-auth-signup/static/css/main.bee70628.css.map",
-    "main.047692cc.js.map": "/https---github.com-Vaibhav123-code-auth-signup/static/js/main.047692cc.js.map"
+    "main.css": "/auth-signup/static/css/main.bee70628.css",
+    "main.js": "/auth-signup/static/js/main.047692cc.js",
+    "index.html": "/auth-signup/index.html",
+    "main.bee70628.css.map": "/auth-signup/static/css/main.bee70628.css.map",
+    "main.047692cc.js.map": "/auth-signup/static/js/main.047692cc.js.map"
   },
   "entrypoints": [
     "static/css/main.bee70628.css",
